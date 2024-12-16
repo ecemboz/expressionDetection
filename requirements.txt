@@ -1,0 +1,6 @@
+torch
+torchvision
+roboflow
+numpy
+opencv-python
+matplotlib
